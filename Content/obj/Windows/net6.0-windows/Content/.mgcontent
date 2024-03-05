@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/../../../../../Downloads/CarExplosion1.wav</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Fonts/highlightedFont.spritefont</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/ArrowKeys.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/EnemyCar1.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/EnemyCar2.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/EnemyCar3.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/EnemyCar4.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/explosion.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/gameOver.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/grass.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/HelpBubble1.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/HelpBubble2.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/HelpBubble3.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/HelpBubble4.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/mine.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/PlayerCar.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/RoadBackground1.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Images/youWin.png</File>
+    <File>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Sounds/TurboSpeed_BGM.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Sounds/CarExplosion1.wav</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/Sounds/TurboSpeed_BGM.mp3</SourceFile>
+  <SourceTime>2023-12-10T15:11:17.0170496-05:00</SourceTime>
+  <DestFile>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/bin/Windows/Content/Sounds/TurboSpeed_BGM.xnb</DestFile>
+  <DestTime>2024-03-05T17:54:33.4929924-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/alexa/OneDrive/Documents/GitHub/TurboSpeed/Content/bin/Windows/Content/Sounds/TurboSpeed_BGM.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
