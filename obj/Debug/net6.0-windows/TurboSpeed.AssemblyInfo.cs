@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurboSpeed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649baaf6d22528b8ffbbef9fbc9f066a4b9e3d14")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurboSpeed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurboSpeed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
