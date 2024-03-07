@@ -46,6 +46,10 @@ namespace TurboSpeed
                     selectedIndex = i;
                     break;
                 }
+                else
+                {
+                    selectedIndex = -1;
+                }
             }
             base.Update(gameTime);
         }

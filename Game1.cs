@@ -93,6 +93,10 @@ namespace TurboSpeed
                             break;
                         default: break;
                     }
+                    if (menuScene.getSelectedIndex() == -1)
+                    {
+                        menuScene.Show();
+                    }
                 }
             }
             else
