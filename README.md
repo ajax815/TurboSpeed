@@ -11,14 +11,34 @@ Use the arrow keys to move the car around.
 Avoid getting hit by enemy cars or mines, or you will lose the game.
 
 
-# Development
+# Programming
 
-Assets
+All programming in the game was done by me. I used Microsoft XNA Framework's MonoGame to create Turbo Speed. The programming language I used was C#.
+
+
+# Assets
+
 All assets (art) in the game were not created by me. They belong to their respectable owners.
+
 https://toppng.com/free-image/aston-martin-one77-01-top-down-car-sprite-PNG-free-PNG-Images_195002
+
 https://www.hubpng.com/photo/2901/car-sprite-png-top-down-car-transparent-png
+
 https://www.pngaaa.com/detail/1444881
+
 https://pngimg.com/image/26613
+
 https://opengameart.org/content/grass-for-scratch-background
 
-Music
+
+# Music
+
+The background music was not created by me and belongs to its respctable owner.
+
+https://happysoulmusic.com/audio/edm-detection-mode-by-kevin-macleod-mp3/
+
+# Sound Effects
+
+The explosion sound effect was not created by me and belongs to its respectable owner
+
+https://mixkit.co/free-sound-effects/explosion/
