@@ -9,3 +9,16 @@ Use the arrow keys to move the car around.
 ![image](https://github.com/ajax815/TurboSpeed/assets/161390808/6b9d7dba-2f66-48ea-8ea6-d66f39a511dd)
 
 Avoid getting hit by enemy cars or mines, or you will lose the game.
+
+
+# Development
+
+Assets
+All assets (art) in the game were not created by me. They belong to their respectable owners.
+https://toppng.com/free-image/aston-martin-one77-01-top-down-car-sprite-PNG-free-PNG-Images_195002
+https://www.hubpng.com/photo/2901/car-sprite-png-top-down-car-transparent-png
+https://www.pngaaa.com/detail/1444881
+https://pngimg.com/image/26613
+https://opengameart.org/content/grass-for-scratch-background
+
+Music
