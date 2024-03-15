@@ -13,7 +13,7 @@ Avoid getting hit by enemy cars or mines, or you will lose the game.
 
 # Programming
 
-All programming in the game was done by me. I used Microsoft XNA Framework's MonoGame to create Turbo Speed. The programming language I used was C#.
+All programming in the game was done by me. I used Microsoft XNA Framework and MonoGame to create Turbo Speed. The programming language I used was C#.
 
 
 # Assets
